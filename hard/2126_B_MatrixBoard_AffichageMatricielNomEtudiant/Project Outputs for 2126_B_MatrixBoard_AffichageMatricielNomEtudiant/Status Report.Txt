@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:10:36 On 03.11.2022
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [ES_Class6C_2L.PcbDoc]
+   Generated File[Pick Place for ES_Class6C_2L.txt]
+   Generated File[Pick Place for ES_Class6C_2L.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:10:37 On 03.11.2022

@@ -1,0 +1,84 @@
+Altium Designer Pick and Place Locations
+K:\ES\PROJETS\SLO\2126_AffichageMatriciel\hard\2126_B_MatrixBoard_AffichageMatricielNomEtudiant\Project Outputs for 2126_B_MatrixBoard_AffichageMatricielNomEtudiant\Manufacturing\Pick Place.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03.11.22
+Time:       14:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer       Footprint              Center-X(mm) Center-Y(mm) Rotation 
+X4         M20-7920442R BottomLayer 610108249121           28.0000      8.0700       180      
+X3         M20-7920442R BottomLayer 610108249121           47.9300      27.5000      270      
+X2         610108249221 BottomLayer 610108249221           12.8750      27.5000      90       
+X1         610108249221 BottomLayer 610108249221           28.0000      42.1250      0        
+U1         MAX7221CWG+  BottomLayer FP-W24-1-IPC_B         28.0000      27.5000      0        
+R1         43k          BottomLayer RESC2013X70X40ML20T20  38.0000      27.4750      90       
+D64        RED          TopLayer    SODFL350X210-2N        52.5000      3.0000       0        
+D63        RED          TopLayer    SODFL350X210-2N        45.5000      3.0000       0        
+D62        RED          TopLayer    SODFL350X210-2N        38.5000      3.0000       0        
+D61        RED          TopLayer    SODFL350X210-2N        31.5000      3.0000       0        
+D60        RED          TopLayer    SODFL350X210-2N        24.5000      3.0000       0        
+D59        RED          TopLayer    SODFL350X210-2N        17.5000      3.0000       0        
+D58        RED          TopLayer    SODFL350X210-2N        10.5000      3.0000       0        
+D57        RED          TopLayer    SODFL350X210-2N        3.5000       3.0000       0        
+D56        RED          TopLayer    SODFL350X210-2N        52.5000      10.0000      0        
+D55        RED          TopLayer    SODFL350X210-2N        45.5000      10.0000      0        
+D54        RED          TopLayer    SODFL350X210-2N        38.5000      10.0000      0        
+D53        RED          TopLayer    SODFL350X210-2N        31.5000      10.0000      0        
+D52        RED          TopLayer    SODFL350X210-2N        24.5000      10.0000      0        
+D51        RED          TopLayer    SODFL350X210-2N        17.5000      10.0000      0        
+D50        RED          TopLayer    SODFL350X210-2N        10.5000      10.0000      0        
+D49        RED          TopLayer    SODFL350X210-2N        3.5000       10.0000      0        
+D48        RED          TopLayer    SODFL350X210-2N        52.5000      17.0000      0        
+D47        RED          TopLayer    SODFL350X210-2N        45.5000      17.0000      0        
+D46        RED          TopLayer    SODFL350X210-2N        38.5000      17.0000      0        
+D45        RED          TopLayer    SODFL350X210-2N        31.5000      17.0000      0        
+D44        RED          TopLayer    SODFL350X210-2N        24.5000      17.0000      0        
+D43        RED          TopLayer    SODFL350X210-2N        17.5302      17.0207      0        
+D42        RED          TopLayer    SODFL350X210-2N        10.5000      17.0000      0        
+D41        RED          TopLayer    SODFL350X210-2N        3.5000       17.0000      0        
+D40        RED          TopLayer    SODFL350X210-2N        52.5000      24.0000      0        
+D39        RED          TopLayer    SODFL350X210-2N        45.5000      24.0000      0        
+D38        RED          TopLayer    SODFL350X210-2N        38.5000      24.0000      0        
+D37        RED          TopLayer    SODFL350X210-2N        31.5000      24.0000      0        
+D36        RED          TopLayer    SODFL350X210-2N        24.5000      24.0000      0        
+D35        RED          TopLayer    SODFL350X210-2N        17.5000      24.0000      0        
+D34        RED          TopLayer    SODFL350X210-2N        10.5000      24.0000      0        
+D33        RED          TopLayer    SODFL350X210-2N        3.5000       24.0000      0        
+D32        RED          TopLayer    SODFL350X210-2N        52.5000      31.0000      0        
+D31        RED          TopLayer    SODFL350X210-2N        45.5000      31.0000      0        
+D30        RED          TopLayer    SODFL350X210-2N        38.5000      31.0000      0        
+D29        RED          TopLayer    SODFL350X210-2N        31.5000      31.0000      0        
+D28        RED          TopLayer    SODFL350X210-2N        24.5000      31.0000      0        
+D27        RED          TopLayer    SODFL350X210-2N        17.5000      31.0000      0        
+D26        RED          TopLayer    SODFL350X210-2N        10.5000      31.0000      0        
+D25        RED          TopLayer    SODFL350X210-2N        3.5000       31.0000      0        
+D24        RED          TopLayer    SODFL350X210-2N        52.5000      38.0000      0        
+D23        RED          TopLayer    SODFL350X210-2N        45.5000      38.0000      0        
+D22        RED          TopLayer    SODFL350X210-2N        38.5000      38.0000      0        
+D21        RED          TopLayer    SODFL350X210-2N        31.5000      38.0000      0        
+D20        RED          TopLayer    SODFL350X210-2N        24.5000      38.0000      0        
+D19        RED          TopLayer    SODFL350X210-2N        17.5000      38.0000      0        
+D18        RED          TopLayer    SODFL350X210-2N        10.5000      38.0000      0        
+D17        RED          TopLayer    SODFL350X210-2N        3.5000       38.0000      0        
+D16        RED          TopLayer    SODFL350X210-2N        52.5000      45.0000      0        
+D15        RED          TopLayer    SODFL350X210-2N        45.5000      45.0000      0        
+D14        RED          TopLayer    SODFL350X210-2N        38.5000      45.0000      0        
+D13        RED          TopLayer    SODFL350X210-2N        31.5000      45.0000      0        
+D12        RED          TopLayer    SODFL350X210-2N        24.5000      45.0000      0        
+D11        RED          TopLayer    SODFL350X210-2N        17.5000      45.0000      0        
+D10        RED          TopLayer    SODFL350X210-2N        10.5000      45.0000      0        
+D9         RED          TopLayer    SODFL350X210-2N        3.5000       45.0000      0        
+D8         RED          TopLayer    SODFL350X210-2N        52.5000      52.0000      0        
+D7         RED          TopLayer    SODFL350X210-2N        45.5000      52.0000      0        
+D6         RED          TopLayer    SODFL350X210-2N        38.5000      52.0000      0        
+D5         RED          TopLayer    SODFL350X210-2N        31.5000      52.0000      0        
+D4         RED          TopLayer    SODFL350X210-2N        24.5000      52.0000      0        
+D3         RED          TopLayer    SODFL350X210-2N        17.5000      52.0000      0        
+D2         RED          TopLayer    SODFL350X210-2N        10.5000      52.0000      0        
+D1         RED          TopLayer    SODFL350X210-2N        3.5000       52.0000      0        
+C1         100nF        BottomLayer CAPC2013X145X48NL20T23 28.0000      17.5000      0        
