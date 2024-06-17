@@ -42,3 +42,14 @@ K:\ES\PROJETS\SLO\2126_AffichageMatriciel\doc\V_2\soft\PROJET_POBJ_2126_Affichag
 K:\ES\PROJETS\SLO\2126_AffichageMatriciel\doc\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.csproj.CoreCompileInputs.cache
 K:\ES\PROJETS\SLO\2126_AffichageMatriciel\doc\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.exe
 K:\ES\PROJETS\SLO\2126_AffichageMatriciel\doc\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.pdb
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\bin\Release\UserRetrieval.exe.config
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\bin\Release\UserRetrieval.exe
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\bin\Release\UserRetrieval.pdb
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.csproj.AssemblyReference.cache
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.csproj.SuggestedBindingRedirects.cache
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.Properties.Resources.resources
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.Views.View.resources
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.csproj.GenerateResource.cache
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.csproj.CoreCompileInputs.cache
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.exe
+D:\Users\Melis\Desktop\PRJ_2126_AffichageMatriciel\soft\V_2\soft\PROJET_POBJ_2126_AffichageMatriciel\UserRetrieval-main\src\UserRetrieval\UserRetrieval\obj\Release\UserRetrieval.pdb

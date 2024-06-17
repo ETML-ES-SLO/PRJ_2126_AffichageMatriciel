@@ -23,7 +23,9 @@ namespace UserRetrieval.Models
         /// <returns>String containing Name and Surname</returns>
         internal string GetUserInfos()
         {
-            return UserPrincipal.Current.DisplayName;
+            string name = UserPrincipal.Current.DisplayName;
+            if(string.IsNullOrEmpty(name)) name = UserPrincipal.Current.Name;
+            return name;
         }
     }
 }
