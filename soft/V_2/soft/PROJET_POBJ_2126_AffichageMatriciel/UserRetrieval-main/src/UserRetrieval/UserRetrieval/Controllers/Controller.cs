@@ -46,13 +46,9 @@ namespace UserRetrieval.Controllers
         {
             string userInfos = this._model.GetUserInfos();
 
-
-
             // If user infos could not be retrieved, log it and exit the program
             if (userInfos == null || userInfos == "")
             {
-                Logger.Log(Logger.LogLevel.WARNING, "User infos could not be retrieved");
-                Environment.Exit(0);
             }
             else
             {

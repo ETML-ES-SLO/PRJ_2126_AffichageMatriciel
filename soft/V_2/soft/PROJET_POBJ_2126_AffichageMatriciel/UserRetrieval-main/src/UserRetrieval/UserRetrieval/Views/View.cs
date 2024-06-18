@@ -107,11 +107,15 @@ namespace UserRetrieval.Views
             string[] nameParts = useName.Split(SpaceSeparator, System.StringSplitOptions.RemoveEmptyEntries);
             string name = nameParts[0].Trim(); // Récupération du premier mot comme prénom, en supprimant les espaces au début et à la fin
 
+
+            int maxNumberOfLetters = MAX_NUMBER_OF_LETTERS;
+            if (nameParts.Length > 1) maxNumberOfLetters -= 2; // Besoin de deux caractères pour l'espace et l'initial du nom
+
             // Si la longueur du prénom dépasse la limite maximale, le prénom est tronqué et un point est ajouté à la fin
-            if (name.Length > MAX_NUMBER_OF_LETTERS)
+            if (name.Length > maxNumberOfLetters)
             {
                 // Name = name.Substring(0, NEEDED_NUMBER_OF_CHARACTERS - 3) + "...";
-                name = name.Substring(0, MAX_NUMBER_OF_LETTERS - 1) + ".";
+                name = name.Substring(0, maxNumberOfLetters - 1) + ".";
             }
 
             // Si le nom est composé de plusieurs mots
