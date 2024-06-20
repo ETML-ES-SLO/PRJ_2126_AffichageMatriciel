@@ -1,0 +1,1194 @@
+[INFO][12.01.2022 08:51:59]: Santiago Sugrañesoria connected successfully
+[INFO][12.01.2022 08:53:25]: Santiago Sugrañesoria connected successfully
+[INFO][12.01.2022 08:53:25]: User Santiago Sugrañesoria already in file.
+[INFO][12.01.2022 08:54:09]: Santiago Sugrañesoria connected successfully
+[INFO][12.01.2022 08:54:09]: User Santiago Sugrañesoria already in file.
+[INFO][12.01.2022 08:55:18]: Santiago Sugrañesoria connected successfully
+[INFO][12.01.2022 08:55:18]: User Santiago Sugrañesoria already in file.
+[INFO][12.01.2022 09:30:00]: Santiago Sugrañesoria connected successfully
+[INFO][12.01.2022 09:30:00]: User Santiago Sugrañesoria already in file.
+[INFO][12.01.2022 09:30:37]: Santiago Sugrañesoria connected successfully
+[INFO][12.01.2022 09:30:37]: User Santiago Sugrañesoria already in file.
+[INFO][18.05.2022 08:20:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:45:38]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:45:38]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 09:45:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:45:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 09:47:01]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:47:01]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 09:53:14]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:53:14]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 09:54:14]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:54:14]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 09:56:30]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:56:30]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 09:57:32]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:57:32]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 09:59:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 09:59:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:00:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:00:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:00:53]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:00:53]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:02:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:02:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:02:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:02:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:04:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:04:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:08:55]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:08:55]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:10:33]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:10:33]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:12:03]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:12:03]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:13:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:13:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:15:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:15:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:24:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:24:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:25:02]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:25:02]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:33:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:33:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:35:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:35:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:36:20]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:36:20]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:39:42]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:39:42]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:44:36]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:44:36]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:45:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:45:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:46:32]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:46:32]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:47:21]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:47:21]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:48:01]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:48:01]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:54:25]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:54:25]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:54:48]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:54:48]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:56:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:56:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:58:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:58:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 10:59:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 10:59:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:00:58]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:00:58]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:02:06]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:02:06]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:02:35]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:02:35]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:02:55]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:02:55]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:03:35]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:03:35]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:05:07]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:05:07]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:06:33]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:06:33]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:07:37]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:07:37]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:08:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:08:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:09:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:09:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:13:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:13:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:13:57]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:13:57]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:20:29]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:20:30]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:22:11]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:22:11]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:23:27]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:23:27]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 11:24:21]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 11:24:21]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:35:04]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:35:04]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:39:45]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:39:45]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:41:49]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:41:49]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:42:59]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:42:59]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:50:21]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:50:21]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:51:58]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:51:58]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:53:46]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:53:46]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 12:55:53]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 12:55:53]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:01:55]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:01:55]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:03:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:03:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:05:53]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:05:53]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:07:44]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:07:44]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:21:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:21:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:22:59]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:22:59]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:24:28]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:24:28]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 13:30:52]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 13:30:52]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:08:30]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:08:30]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:10:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:10:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:11:26]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:11:26]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:12:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:12:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:14:01]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:14:01]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:14:42]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:14:42]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:15:55]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:15:55]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:16:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:16:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:17:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:17:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:19:05]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:19:05]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:20:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:20:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:22:50]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:22:50]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:32:02]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:32:02]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:35:09]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:35:09]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:38:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:38:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:39:27]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:39:27]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:43:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:43:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:46:27]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:46:27]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:51:26]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:51:26]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:52:59]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:52:59]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:53:47]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:53:47]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:54:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:54:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:56:06]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:56:06]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 14:57:53]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 14:57:53]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 15:03:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 15:03:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 15:04:05]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 15:04:05]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 15:06:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 15:06:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 15:07:37]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 15:07:37]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 15:08:38]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 15:08:38]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 15:09:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 15:09:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][18.05.2022 15:09:09]: Ricardo Rodriguescrespo connected successfully
+[INFO][18.05.2022 15:09:09]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 08:00:07]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 08:00:07]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 08:44:37]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 08:44:37]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 09:19:45]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 09:19:45]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 09:20:03]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 09:20:03]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 09:23:54]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 09:23:54]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 09:59:05]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 09:59:05]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 10:48:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 10:48:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 10:55:24]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 10:55:24]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:31:59]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:31:59]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:36:27]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:36:27]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:38:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:38:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:43:03]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:43:03]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:44:43]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:44:43]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:46:02]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:46:02]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:48:32]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:48:32]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 14:57:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 14:57:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 15:54:38]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 15:54:38]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 15:55:35]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 15:55:35]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 15:56:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 15:56:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 15:59:43]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 15:59:43]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:02:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:02:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:08:35]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:08:35]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:09:29]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:09:29]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:10:38]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:10:38]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:11:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:11:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:15:04]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:15:04]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:16:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:16:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:23:27]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:23:27]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:24:03]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:24:03]: User Ricardo Rodriguescrespo already in file.
+[INFO][25.05.2022 16:24:42]: Ricardo Rodriguescrespo connected successfully
+[INFO][25.05.2022 16:24:42]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 09:53:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 09:53:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 10:06:33]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 10:06:33]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 10:08:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 10:08:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 10:10:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 10:10:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 10:10:45]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 10:10:45]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 10:10:57]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 10:10:57]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 10:11:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 10:11:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 13:51:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 13:51:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 13:51:43]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 13:51:43]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 13:52:54]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 13:52:54]: User Ricardo Rodriguescrespo already in file.
+[INFO][30.05.2022 14:03:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][30.05.2022 14:03:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:24:02]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:24:02]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:24:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:24:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:25:22]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:25:22]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:28:25]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:28:25]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:31:46]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:31:46]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:33:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:33:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:35:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:35:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:36:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:36:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 09:41:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 09:41:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:16:28]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:16:28]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:16:59]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:16:59]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:17:32]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:17:32]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:18:19]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:18:19]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:21:22]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:21:22]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:35:31]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:35:31]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:35:54]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:35:54]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:36:32]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:36:32]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:37:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:37:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:37:20]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:37:20]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:41:07]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:41:07]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:48:47]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:48:47]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:50:59]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:50:59]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:52:46]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:52:46]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:53:36]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:53:36]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 10:55:22]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 10:55:22]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:00:36]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:00:36]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:01:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:01:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:02:12]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:02:12]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:02:41]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:02:41]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:03:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:03:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:04:36]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:04:36]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:06:11]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:06:11]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:06:35]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:06:35]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:08:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:08:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 11:25:57]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 11:25:57]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 14:24:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 14:24:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 14:53:03]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 14:53:03]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 14:57:05]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 14:57:05]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 14:57:53]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 14:57:53]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 14:58:26]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 14:58:26]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 15:08:52]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 15:08:52]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 15:09:11]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 15:09:11]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 15:09:25]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 15:09:25]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 15:12:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 15:12:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 15:13:25]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 15:13:25]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 16:29:35]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 16:29:35]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 16:30:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 16:30:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 16:30:19]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 16:30:19]: User Ricardo Rodriguescrespo already in file.
+[INFO][01.06.2022 16:31:38]: Ricardo Rodriguescrespo connected successfully
+[INFO][01.06.2022 16:31:38]: User Ricardo Rodriguescrespo already in file.
+[INFO][02.06.2022 09:04:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][02.06.2022 09:04:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][06.06.2022 13:22:49]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:27:15]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:27:15]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:30:21]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:30:21]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:49:37]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:49:37]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:50:36]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:50:36]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:51:05]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:51:05]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:51:37]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:51:37]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:53:13]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:53:13]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:55:04]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:55:04]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:57:17]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:57:17]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:57:42]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:57:42]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:58:06]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:58:06]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:59:08]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:59:08]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 13:59:41]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 13:59:41]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:01:11]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:01:11]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:03:37]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:03:37]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:06:16]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:06:16]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:06:32]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:06:32]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:06:50]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:06:50]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:07:11]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:07:11]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:07:34]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:07:34]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:27:39]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:27:39]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:29:20]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:29:20]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:31:12]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:31:12]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:31:29]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:31:29]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:32:33]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:32:33]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:33:16]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:33:16]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 14:33:49]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 14:33:49]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 15:55:00]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 15:55:00]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 16:10:03]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 16:10:03]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 17:56:17]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 17:56:17]: User Ricardo Crespo already in file.
+[INFO][06.06.2022 17:56:35]: Ricardo Crespo connected successfully
+[INFO][06.06.2022 17:56:35]: User Ricardo Crespo already in file.
+[INFO][07.06.2022 08:32:31]: Ricardo Rodriguescrespo connected successfully
+[INFO][07.06.2022 08:32:31]: User Ricardo Rodriguescrespo already in file.
+[INFO][07.06.2022 08:33:03]: Ricardo Rodriguescrespo connected successfully
+[INFO][07.06.2022 08:33:03]: User Ricardo Rodriguescrespo already in file.
+[INFO][07.06.2022 08:33:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][07.06.2022 08:33:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 07:56:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 07:56:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 07:56:53]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 07:56:53]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 07:57:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 07:57:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 07:57:38]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 07:57:38]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 07:58:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 07:58:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:10:48]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:10:48]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:11:45]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:11:45]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:12:42]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:12:42]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:13:10]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:13:10]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:13:21]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:13:21]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:14:10]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:14:10]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:16:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:16:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:17:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:17:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:18:58]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:18:58]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:22:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:22:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:24:33]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:24:33]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:25:05]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:25:05]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:25:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:25:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:26:59]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:26:59]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:27:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:27:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:27:44]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:27:44]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:29:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:29:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:31:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:31:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:33:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:33:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:34:11]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:34:11]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:38:41]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:38:41]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:40:50]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:40:50]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:41:27]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:41:27]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:44:37]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:44:37]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:46:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:46:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:46:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:46:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:47:32]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:47:32]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:52:53]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:52:53]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:56:52]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:56:52]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:57:44]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:57:44]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 08:59:02]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 08:59:02]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:00:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:00:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:03:10]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:03:10]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:04:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:04:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:05:06]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:05:06]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:06:12]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:06:12]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:07:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:07:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:07:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:07:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:09:49]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:09:49]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:18:33]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:18:33]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:20:41]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:20:41]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:21:05]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:21:05]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:21:25]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:21:25]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:21:52]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:21:52]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:22:41]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:22:41]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:24:50]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:24:50]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:29:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:29:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:29:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:29:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:29:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:29:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:30:57]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:30:57]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:38:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:38:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:40:46]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:40:46]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:42:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:42:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:43:29]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:43:29]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:44:00]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:44:00]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:45:35]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:45:35]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:53:26]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:53:26]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 09:54:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 09:54:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:02:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:02:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:11:28]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:11:28]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:11:58]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:11:58]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:19:49]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:19:49]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:32:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:32:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:33:31]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:33:31]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:34:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:34:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:35:37]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:35:37]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:36:02]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:36:02]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:45:04]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:45:04]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:45:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:45:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:47:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:47:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:47:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:47:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:49:19]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:49:19]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 10:56:21]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 10:56:21]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:02:30]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:02:30]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:02:44]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:02:44]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:07:26]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:07:26]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:12:07]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:12:07]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:15:57]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:15:57]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:19:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:19:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:19:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:19:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:20:41]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:20:41]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:21:14]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:21:14]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:21:45]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:21:45]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:22:48]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:22:48]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:23:43]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:23:43]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:26:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:26:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:26:28]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:26:28]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:26:46]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:26:46]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:27:10]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:27:10]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:27:46]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:27:46]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 11:28:20]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 11:28:20]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:43:28]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:43:28]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:43:52]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:43:52]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:44:14]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:44:14]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:53:11]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:53:11]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:53:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:53:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:55:21]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:55:21]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:58:45]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:58:45]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 12:59:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 12:59:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:08:56]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:08:56]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:09:12]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:09:12]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:10:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:10:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:10:44]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:10:44]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:12:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:12:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:12:51]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:12:51]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:14:19]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:14:19]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:14:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:14:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:14:49]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:14:49]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:15:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:15:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:15:47]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:15:47]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:16:05]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:16:05]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:16:58]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:16:58]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:17:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:17:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:53:30]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:53:30]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:54:11]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:54:11]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:54:44]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:54:44]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 13:56:30]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 13:56:30]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:03:01]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:03:01]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:03:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:03:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:04:31]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:04:31]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:12:47]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:12:47]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:15:15]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:15:15]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:16:06]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:16:06]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:16:23]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:16:23]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:34:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:34:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:34:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:34:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:34:46]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:34:46]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:37:28]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:37:28]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:37:57]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:37:57]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:38:17]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:38:17]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:38:50]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:38:50]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:39:08]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:39:08]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:39:20]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:39:20]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:39:47]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:39:47]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:39:58]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:39:58]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:40:13]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:40:13]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:40:33]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:40:33]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:40:48]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:40:48]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:41:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:41:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:42:04]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:42:04]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:42:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:42:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:51:50]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:51:50]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:52:40]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:52:40]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:54:01]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:54:01]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:54:39]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:54:39]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:55:32]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:55:32]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 14:55:55]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 14:55:55]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:00:29]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:00:29]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:01:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:01:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:04:22]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:04:22]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:04:50]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:04:50]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:05:18]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:05:18]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:14:45]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:14:45]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:22:04]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:22:04]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 15:22:30]: Ricardo Rodriguescrespo connected successfully
+[INFO][08.06.2022 15:22:30]: User Ricardo Rodriguescrespo already in file.
+[INFO][08.06.2022 20:58:54]: Ricardo Crespo connected successfully
+[INFO][08.06.2022 20:58:54]: User Ricardo Crespo already in file.
+[INFO][08.06.2022 21:00:07]: Ricardo Crespo connected successfully
+[INFO][08.06.2022 21:00:07]: User Ricardo Crespo already in file.
+[INFO][08.06.2022 21:02:41]: Ricardo Crespo connected successfully
+[INFO][08.06.2022 21:02:41]: User Ricardo Crespo already in file.
+[INFO][08.06.2022 21:55:06]: Ricardo Crespo connected successfully
+[INFO][08.06.2022 21:55:06]: User Ricardo Crespo already in file.
+[INFO][08.06.2022 21:56:51]: Ricardo Crespo connected successfully
+[INFO][08.06.2022 21:56:51]: User Ricardo Crespo already in file.
+[INFO][12.06.2022 16:28:48]: Ricardo Crespo connected successfully
+[INFO][12.06.2022 16:28:48]: User Ricardo Crespo already in file.
+[INFO][12.06.2022 16:29:07]: Ricardo Crespo connected successfully
+[INFO][12.06.2022 16:29:07]: User Ricardo Crespo already in file.
+[INFO][15.06.2022 08:05:42]: Ricardo Rodriguescrespo connected successfully
+[INFO][15.06.2022 08:05:42]: User Ricardo Rodriguescrespo already in file.
+[INFO][15.06.2022 08:14:20]: Ricardo Rodriguescrespo connected successfully
+[INFO][15.06.2022 08:14:20]: User Ricardo Rodriguescrespo already in file.
+[INFO][15.06.2022 10:26:10]: Ricardo Rodriguescrespo connected successfully
+[INFO][15.06.2022 10:26:10]: User Ricardo Rodriguescrespo already in file.
+[INFO][15.06.2022 10:27:16]: Ricardo Rodriguescrespo connected successfully
+[INFO][15.06.2022 10:27:16]: User Ricardo Rodriguescrespo already in file.
+[INFO][15.06.2022 10:27:50]: Ricardo Rodriguescrespo connected successfully
+[INFO][15.06.2022 10:27:50]: User Ricardo Rodriguescrespo already in file.
+[INFO][15.06.2022 10:31:34]: Ricardo Rodriguescrespo connected successfully
+[INFO][15.06.2022 10:31:34]: User Ricardo Rodriguescrespo already in file.
+[INFO][15.06.2022 13:01:09]: Ricardo Rodriguescrespo connected successfully
+[INFO][15.06.2022 13:01:09]: User Ricardo Rodriguescrespo already in file.
+[INFO][16.06.2022 08:26:58]: Ricardo Rodriguescrespo connected successfully
+[INFO][16.06.2022 08:26:58]: User Ricardo Rodriguescrespo already in file.
+[INFO][28.09.2022 17:44:43]: Philippe Bovey connected successfully
+[INFO][28.09.2022 17:46:25]: Philippe Bovey connected successfully
+[INFO][28.09.2022 17:46:25]: User Philippe Bovey already in file.
+[INFO][28.09.2022 17:55:37]: Philippe Bovey connected successfully
+[INFO][28.09.2022 17:55:37]: User Philippe Bovey already in file.
+[INFO][30.09.2022 12:06:33]: Serge Castoldi connected successfully
+[INFO][10.11.2022 10:12:18]: Serge Castoldi connected successfully
+[INFO][10.11.2022 10:12:18]: User Serge Castoldi already in file.
+[INFO][14.05.2024 08:34:17]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:36:35]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:36:35]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:38:35]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:38:35]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:41:19]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:41:19]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:49:12]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:49:12]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:49:36]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:49:36]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:49:45]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:49:45]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:51:03]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:51:03]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:57:19]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:57:19]: User Melissa Perret already in file.
+[INFO][14.05.2024 08:57:43]: Melissa Perret connected successfully
+[INFO][14.05.2024 08:57:43]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:00:07]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:00:07]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:00:39]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:00:39]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:01:04]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:01:04]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:26:05]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:26:05]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:27:18]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:27:18]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:28:24]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:28:24]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:28:37]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:28:37]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:30:03]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:30:03]: User Melissa Perret already in file.
+[INFO][14.05.2024 09:59:24]: Melissa Perret connected successfully
+[INFO][14.05.2024 09:59:24]: User Melissa Perret already in file.
+[INFO][14.05.2024 10:06:07]: Melissa Perret connected successfully
+[INFO][14.05.2024 10:06:07]: User Melissa Perret already in file.
+[INFO][14.05.2024 10:06:13]: Melissa Perret connected successfully
+[INFO][14.05.2024 10:06:13]: User Melissa Perret already in file.
+[INFO][14.05.2024 10:06:23]: Melissa Perret connected successfully
+[INFO][14.05.2024 10:06:23]: User Melissa Perret already in file.
+[INFO][14.05.2024 10:08:14]: Melissa Perret connected successfully
+[INFO][14.05.2024 10:08:14]: User Melissa Perret already in file.
+[INFO][14.05.2024 10:08:25]: Melissa Perret connected successfully
+[INFO][14.05.2024 10:08:25]: User Melissa Perret already in file.
+[INFO][14.05.2024 10:08:35]: Melissa Perret connected successfully
+[INFO][14.05.2024 10:08:35]: User Melissa Perret already in file.
+[INFO][14.05.2024 10:36:46]: Melissa Perret connected successfully
+[INFO][14.05.2024 10:36:46]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:15:09]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:15:09]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:22:25]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:22:25]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:22:44]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:22:44]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:23:51]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:23:51]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:24:16]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:24:16]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:32:35]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:32:35]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:32:45]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:32:45]: User Melissa Perret already in file.
+[INFO][14.05.2024 11:32:55]: Melissa Perret connected successfully
+[INFO][14.05.2024 11:32:55]: User Melissa Perret already in file.
+[INFO][14.05.2024 15:56:07]: Melissa Perret connected successfully
+[INFO][14.05.2024 15:56:07]: User Melissa Perret already in file.
+[INFO][14.05.2024 15:56:19]: Melissa Perret connected successfully
+[INFO][14.05.2024 15:56:19]: User Melissa Perret already in file.
+[INFO][14.05.2024 15:57:17]: Melissa Perret connected successfully
+[INFO][14.05.2024 15:57:17]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:01:04]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:01:04]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:01:12]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:01:12]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:01:21]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:01:21]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:01:30]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:01:30]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:03:03]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:03:03]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:03:12]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:03:12]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:03:21]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:03:21]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:04:34]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:04:34]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:04:40]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:04:40]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:13:05]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:13:05]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:13:10]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:13:10]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:13:20]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:13:20]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:16:27]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:16:27]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:17:13]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:17:13]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:19:34]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:19:34]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:19:39]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:19:39]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:19:48]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:19:48]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:19:55]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:19:55]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:21:06]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:21:06]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:21:14]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:21:14]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:23:32]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:23:32]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:24:53]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:24:53]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:25:01]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:25:01]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:25:08]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:25:08]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:25:20]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:25:20]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:26:39]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:26:39]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:30:53]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:30:53]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:32:21]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:32:21]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:33:00]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:33:00]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:35:02]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:35:02]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:35:30]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:35:30]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:35:51]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:35:51]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:37:46]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:37:46]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:37:56]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:37:56]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:38:06]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:38:06]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:38:23]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:38:23]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:40:04]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:40:04]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:40:15]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:40:15]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:40:31]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:40:31]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:40:41]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:40:41]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:40:54]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:40:54]: User Melissa Perret already in file.
+[INFO][14.05.2024 16:41:14]: Melissa Perret connected successfully
+[INFO][14.05.2024 16:41:14]: User Melissa Perret already in file.
+[INFO][18/05/2024 14:16:53]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:18:37]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:18:37]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:20:42]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:20:42]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:22:12]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:22:12]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:22:28]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:22:28]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:23:31]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:23:31]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:30:56]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:30:56]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:46:20]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:46:20]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:56:48]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:56:48]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:57:35]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:57:35]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 14:58:05]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 14:58:05]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:00:45]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:00:45]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:01:20]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:01:20]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:01:50]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:01:50]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:02:16]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:02:16]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:03:24]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:03:24]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:03:56]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:03:57]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:04:56]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:04:56]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:05:55]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:05:55]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:06:50]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:06:50]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:08:03]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:08:03]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:08:19]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:08:19]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:08:47]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:08:47]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:12:03]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:12:03]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:12:33]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:12:33]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:13:38]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:13:38]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:14:08]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:14:08]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:15:40]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:15:40]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:18:31]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:18:31]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:18:48]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:18:48]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:19:43]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:19:43]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:20:37]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:20:37]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:21:51]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:21:51]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:22:29]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:22:29]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:24:37]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:24:37]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:25:51]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:25:51]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:27:29]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:27:29]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:28:09]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:28:09]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:39:08]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:39:08]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:39:31]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:39:31]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:39:52]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:39:52]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:40:48]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:40:48]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:41:16]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:41:16]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:42:31]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:42:31]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:44:07]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:44:07]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:45:38]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:45:38]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:49:02]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:49:02]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:50:04]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:50:04]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:52:24]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:52:24]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:53:26]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:53:26]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:55:03]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:55:03]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 15:55:20]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 15:55:20]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:08:57]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:08:57]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:09:35]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:09:35]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:10:11]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:10:11]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:10:34]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:10:34]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:12:01]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:12:01]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:12:28]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:12:28]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:13:32]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:13:32]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:14:15]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:14:15]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:15:13]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:15:13]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:16:26]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:16:26]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:16:54]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:16:54]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:17:30]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:17:30]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:21:34]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:21:34]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:22:19]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:22:19]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:22:38]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:22:38]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:23:29]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:23:29]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:23:53]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:23:53]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:24:14]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:24:14]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 16:24:34]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 16:24:34]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:11:04]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:11:04]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:11:44]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:11:44]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:12:19]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:12:19]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:12:45]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:12:45]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:13:11]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:13:11]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:13:42]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:13:42]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:14:15]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:14:15]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:14:43]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:14:43]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:15:17]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:15:17]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:16:28]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:16:28]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:17:59]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:17:59]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:18:29]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:18:29]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:19:09]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:19:09]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:19:38]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:19:38]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:20:57]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:20:57]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:21:24]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:21:24]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:21:41]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:21:41]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:22:03]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:22:03]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:22:53]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:22:53]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:23:18]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:23:18]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:25:47]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:25:47]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:26:45]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:26:45]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:27:21]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:27:21]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:31:06]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:31:06]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:31:35]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:31:35]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:32:23]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:32:23]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:32:52]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:32:52]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:33:18]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:33:18]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:33:38]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:33:38]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:34:37]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:34:37]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 17:34:49]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 17:34:49]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:05:55]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:05:55]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:06:13]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:06:13]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:08:54]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:08:54]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:09:19]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:09:19]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:12:28]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:12:28]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:16:18]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:16:18]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:19:05]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:19:05]: User Nicolas Regnault already in file.
+[INFO][18/05/2024 18:22:05]: Nicolas Regnault connected successfully
+[INFO][18/05/2024 18:22:05]: User Nicolas Regnault already in file.
+[INFO][17.06.2024 22:20:43]: Melissa connected successfully
+[INFO][18.06.2024 19:46:46]: Philippe Bovey connected successfully
+[INFO][18.06.2024 19:46:46]: User Philippe Bovey already in file.

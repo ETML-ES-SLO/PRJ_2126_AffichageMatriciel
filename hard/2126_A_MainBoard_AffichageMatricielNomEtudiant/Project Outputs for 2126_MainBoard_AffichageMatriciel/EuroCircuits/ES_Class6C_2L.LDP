@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Ricardo\OneDrive - Education Vaud\PROJ\2126_AffichageMatricielNomEtudiant\hard\2126_A_MainBoard_AffichageMatricielNomEtudiant\ES_Class6C_2L.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=es_class6c_2l-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=es_class6c_2l-slotholes.txt|DrillLayers=gtl,gbl
